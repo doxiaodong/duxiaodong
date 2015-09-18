@@ -13,9 +13,12 @@ var 工作经历 = new Map([]);
 
 var 技能 = new Map([]);
 
+var 其他 = new Map([]);
+
 export {
   核心信息,
   基本信息,
   工作经历,
-  技能
+  技能,
+  其他
 }
